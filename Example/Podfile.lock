@@ -1,0 +1,16 @@
+PODS:
+  - ADCase (0.1.0)
+
+DEPENDENCIES:
+  - ADCase (from `../`)
+
+EXTERNAL SOURCES:
+  ADCase:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ADCase: 2d13a3799696029bfe18219d50667d712ab49cc3
+
+PODFILE CHECKSUM: ca44c42b4ddcac6752c6340298aab6ec161cbb4d
+
+COCOAPODS: 1.9.1

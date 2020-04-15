@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ADCase_Example' do
+  pod 'ADCase', :path => '../'
+
+  target 'ADCase_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
